@@ -1,0 +1,5 @@
+com\song\web\socket\ChatEndpoint.class
+com\song\chat\room\Room.class
+com\song\chat\message\MessageType.class
+com\song\web\filter\NocacheFilter.class
+com\song\chat\message\ChatMessage.class

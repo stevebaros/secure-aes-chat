@@ -1,0 +1,8 @@
+com\song\web\socket\ChatEndpoint.class
+com\song\chat\message\MessageType.class
+com\song\web\socket\ServerProtocol.class
+com\song\web\socket\Client.class
+com\song\chat\room\Room.class
+com\song\web\filter\NocacheFilter.class
+com\song\chat\message\ChatMessage.class
+com\song\web\socket\FileManager.class
