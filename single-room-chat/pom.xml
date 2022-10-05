@@ -12,7 +12,7 @@
 	<properties>
         <tomcat.version>7.0.55</tomcat.version>
         <websocket.version>1.1</websocket.version>
-        <jackson.version>2.6.4</jackson.version>
+        <jackson.version>2.12.6.1</jackson.version>
     </properties>
           
     <dependencies>
